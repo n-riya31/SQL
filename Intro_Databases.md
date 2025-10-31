@@ -1,0 +1,8 @@
+- **Data:**  any sort of information that is stored
+- **Database:**  an organised collection of data
+- **DBMS:**  A software that is used to easily store and access data from the database in a secure way
+- Types of Databases:
+    - **Relational Database:** organise the data in the form of tables
+        - Oracle, PostgreSQL, MySQL, SQLite, SQL Server 
+    - **Non-Relational Database:** store the data in a non-tabular form
+        - Elasticsearch, couchDB, MongoDB, Redis
